@@ -1,0 +1,22 @@
+.search-box{
+    width: 250px;
+    line-height: 20px;
+    font-size: 1.1rem;
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 0, 0, 0.521);
+    padding: 5px;
+    outline: none;
+  }
+
+.title-search-box {
+  width: 250px;
+  font-size: 1.1rem;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+  display: block;
+  margin-top: 8px;
+  border-radius: 10px;
+  border: 2px solid rgba(255, 0, 0, 0.521);
+}
